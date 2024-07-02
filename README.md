@@ -8,9 +8,7 @@ A simple counter application built with React and Redux Toolkit. This project de
 - [Usage](#usage)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
