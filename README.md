@@ -18,15 +18,19 @@ To get started with the Counter App, clone this repository to your local machine
 
 ```bash
 git clone https://github.com/re-sohail/Counter-App-using-Redux-Toolkit.git
+```
+```bash
 cd Counter-App-using-Redux-Toolkit
+```
+```bash
 npm install
-
+```
 ## Usage
 
 Once installed, you can run the app using:
 
 ```bash
-npm start
+npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view and interact with the Counter App.
